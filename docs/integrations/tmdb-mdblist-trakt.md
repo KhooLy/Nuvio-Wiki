@@ -14,10 +14,7 @@ TMDB (The Movie Database) acts as the foundation for your metadata, pulling in h
 **Nuvio Configuration:**
 1. Navigate to **Integrations** > **TMDB Enrichment**.
 2. Toggle **Enable TMDB Enrichment** to the on position.
-3. Paste your v3 key into the **Personal API key** field and click Save.
-
-> [!NOTE]
-> The TMDB Personal API key is required on the **Mobile** app. The Android TV app does not require a personal API key for TMDB enrichment.
+Optional: Paste your own v3 key into the **Personal API key** field and click Save. (Nuvio has built-in key)
 
 4. Set your preferred **Language code** (e.g., `en` for English).
 5. Toggle your desired metadata modules. Available modules include:
